@@ -10,3 +10,22 @@ body {
     left: 0;
     z-index: 20;
 }
+
+.carousel {
+    height: 1000px;
+    margin-bottom: 50px;
+}
+
+.carousel-item {
+    height: 1200px;
+    background-color: blue;
+}
+
+.carousel-item img{
+    position: absolute;
+    height: 1200px;
+    min-width: 100%;
+    top: 0;
+    left: 0;
+
+}
