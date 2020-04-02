@@ -30,3 +30,13 @@ body {
     left: 0;
 
 }
+
+.team .col-4 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.team p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
