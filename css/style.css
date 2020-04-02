@@ -1,5 +1,5 @@
 body {
-    padding: 20px;
+    padding-bottom: 20px;
     color: #5a5a5a;
 }
 
@@ -11,13 +11,14 @@ body {
     z-index: 20;
 }
 
+
 .carousel {
-    height: 1000px;
+    height: 500px;
     margin-bottom: 50px;
 }
 
 .carousel-item {
-    height: 1200px;
+    height: 500px;
     background-color: blue;
 }
 
