@@ -44,6 +44,10 @@ body {
     margin: 40px 0;
 }
 
+.content {
+    padding-bottom: 50px;
+}
+
 .content .col-7 {
     padding-left: 60px;
     padding-right: 60px;
@@ -53,4 +57,14 @@ body {
 
 .content .col-5 {
     text-align: center;
+}
+
+footer {
+    margin: 0 150px;
+
+}
+
+.pull-right {
+    font-size: 1.5em;
+    font-weight: bold;
 }
